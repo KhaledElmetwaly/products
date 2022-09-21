@@ -1,0 +1,1 @@
+// http://10.0.1.96/compny_app/public/api/product/index
